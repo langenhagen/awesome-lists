@@ -1,0 +1,58 @@
+/* Stylesheet for the awesome lists. */
+
+body.dark {
+  background-color: #1a1a1a;
+  color: #ffffff;
+}
+
+body.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+*:focus {
+  outline: none; /* Remove potential outline on focused elements */
+}
+
+button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 42px;
+  cursor: pointer;
+  border: none;
+  background: none;
+  color: inherit;
+  padding: 5px;
+  border-radius: 50%;
+  user-select: none;
+}
+
+body.light button {
+  background-color: #0000aa;
+}
+
+body.dark button {
+  background-color: rgba(255, 0, 0, 0);
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+body.light a {
+  color: #004080;
+}
+
+body.dark a {
+  color: #ff8000;
+}
+
+a:hover {
+  text-decoration: underline;
+}

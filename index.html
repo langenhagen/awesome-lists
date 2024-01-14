@@ -1,3 +1,44 @@
-# Awesome Lists A collection of awesome lists that I, Andreas Langenhagen, maintain to keep track of
-good things. ![](res/logo.png) I maintain this repository as a space to put in awesome lists that I
-create as I go along.
+<!--
+  Awesome Lists
+-->
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Awesome Lists</title>
+    <script src="theme-switcher.js" defer></script>
+  </head>
+  <body>
+    <p><img src="res/logo.png" alt="Logo" width="100" /></p>
+    <h1 id="awesome-lists">Awesome Lists</h1>
+    <p>
+      A collection of awesome lists that I, Andreas Langenhagen, maintain to keep track of good
+      things.<br />
+      I maintain this repository as a space to put in awesome lists that I create as I go along.
+    </p>
+    <h2 id="lists">Lists:</h2>
+    <ul>
+      <li><a href="python.html">Python</a></li>
+    </ul>
+    <p><br /><br /><br /></p>
+    <h2 id="how-to-build-the-project">How to Build the Project:</h2>
+    <p>
+      Write or maintain the markdown files. Then, build your HTML files manually via
+      <code>./convert-markdown-to-html.sh</code>.
+    </p>
+    <p>
+      Best view the files on a server in order to allow for the session-storage to set the
+      bright/night theme throughout your pages. Locally, you can run e.g.:
+    </p>
+    <div class="sourceCode" id="cb1">
+      <pre
+        class="sourceCode bash"
+      ><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a><span class="ex">python</span> -m http.server</span></code></pre>
+    </div>
+    <h2 id="licencse">Licencse</h2>
+    <p>See <a href="LICENSE">LICENSE</a>.</p>
+
+    <button id="theme-switcher" onclick="toggleTheme()" title="Toggle Theme"></button>
+  </body>
+</html>
