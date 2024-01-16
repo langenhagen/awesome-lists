@@ -12,21 +12,16 @@ I maintain this repository as a space to put in awesome lists that I create as I
 ## Lists:
 
 - [Python](python.html)
+- [Tools](tools.html)
+- [Reads](reads.html)
 
 <br><br><br>
 
 ## How to Build the Project:
 
-Write or maintain the markdown files.
-Then, build your HTML files manually via `./convert-markdown-to-html.sh`.
-
-Best view the files on a server in order to allow for the session-storage to set the bright/night
-theme throughout your pages. Locally, you can run e.g.:
-
-```bash
-python -m http.server
-```
+Write or change the markdown files.  
+Then, build your HTML files manually via `./build-html.sh`.
 
 ## Licencse
 
-See [LICENSE](LICENSE).
+See [LICENSE.TXT](LICENSE.TXT).

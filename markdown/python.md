@@ -4,7 +4,7 @@ title: Awesome Python Packages
 
 # Awesome Python Packages
 
-A list of Python packages that seem worthwhile checking out, but that I did not yet have played with.
+A list of Python packages off the beaten track that are worthwhile checking out.
 
 ## GUIs
 

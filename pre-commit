@@ -1,0 +1,13 @@
+#!/bin/bash
+# Pre-commit hook to autocreate the HTML files upon commit.
+#
+# Install e.g. via:
+#
+#   ln pre-commit .git/hooks/pre-commit
+#
+# author: andreasl
+cd "$(git rev-parse --show-toplevel)" || exit 1
+
+bash 'build-html.sh'
+
+git add ./*.html
