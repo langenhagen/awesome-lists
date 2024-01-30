@@ -24,6 +24,7 @@ A list of great articles, sites and publications.
 - [The Book of Shaders](https://thebookofshaders.com/): A gentle interactive read on GLSL shaders https://thebookofshaders.com/
 - [Inigo Quilez' Home Page](https://iquilezles.org/): IQ's homepage mainly about mathematically created CG, especially raymaching https://iquilezles.org/
 - [pouet.net](https://www.pouet.net/): Demoscene stuff https://www.pouet.net/
+- [alteredqualia.com](https://alteredqualia.com/): WebGL art https://alteredqualia.com/
 
 ## AI
 
