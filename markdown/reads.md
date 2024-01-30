@@ -23,6 +23,7 @@ A list of great articles, sites and publications.
 - [Ke-Sen Huang's Home Page](https://kesen.realtimerendering.com/): A collecton of papers about computer graphics papers, including SIGGRAPH papers https://kesen.realtimerendering.com/
 - [The Book of Shaders](https://thebookofshaders.com/): A gentle interactive read on GLSL shaders https://thebookofshaders.com/
 - [Inigo Quilez' Home Page](https://iquilezles.org/): IQ's homepage mainly about mathematically created CG, especially raymaching https://iquilezles.org/
+- [pouet.net](https://www.pouet.net/): Demoscene stuff https://www.pouet.net/
 
 ## AI
 
