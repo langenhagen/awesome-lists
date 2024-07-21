@@ -15,6 +15,7 @@ A list of neat apps that are worth checking out.
 ## TUI
 
 - [tig](https://github.com/jonas/tig): A small, hackable git client written in C++ https://github.com/jonas/tig
+- [posting](https://github.com/darrenburns/posting): A beautiful, FOSS but slow Postman alternative in the terminal https://github.com/darrenburns/posting
 
 ## GUI
 
